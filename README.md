@@ -4,6 +4,8 @@ Claude Code skill that strips the "AI smell" out of a finished text — descript
 
 It's a final polish pass, run *after* the content itself (facts, structure, meaning) is already done — not a replacement for writing.
 
+[Русская версия →](README.ru.md)
+
 ## What it catches
 
 A two-pass diagnostic across five pattern groups:
